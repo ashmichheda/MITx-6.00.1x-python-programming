@@ -2,7 +2,7 @@
 """
 Created on Fri Jan 11 22:36:43 2019
 
-@author: Sanjay
+@author: Ashmi
 """
 
 for n in range(2, 11, 2):

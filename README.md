@@ -2,7 +2,7 @@
 
 ## Introduction to Computer Science and Programming Using Python
 
-## Topics Covered:
+### Topics Covered:
 #### Lecture 1 – Introduction to Python:
 • Knowledge
 • Machines

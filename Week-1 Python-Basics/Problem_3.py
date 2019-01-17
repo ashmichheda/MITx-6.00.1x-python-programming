@@ -1,15 +1,12 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Jan 15 23:20:21 2019
-
 @author: Ashmi
 """
-
 # Write a program that prints the longest substring of s in which the letters occur in alphabetical order. 
 #For example, if s = 'azcbobobegghakl', then your program should print
 
 s = 'aabcrksbbbbbbbbadesd'
-
 # initializing tracker variables
 maxLen = 0
 current = s[0]

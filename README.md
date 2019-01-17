@@ -1,7 +1,7 @@
 # MITx-6.00.1x-python-programming
 
 ## Introduction to Computer Science and Programming Using Python
-### Topics Covered in this course:
+### Topics covered in this course:
 #### Lecture 1 – Introduction to Python:
 • Knowledge
 • Machines

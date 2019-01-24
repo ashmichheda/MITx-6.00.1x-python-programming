@@ -7,12 +7,12 @@
 
 ### Topics covered in this course:
 #### Lecture 1 – Introduction to Python:
-• Knowledge
-• Machines
-• Languages
-• Types
-• Variables
-• Operators and Branching
+• Knowledge<br />
+• Machines<br />
+• Languages<br />
+• Types<br />
+• Variables<br />
+• Operators and Branching<br />
 #### Lecture 2 – Core elements of programs:
 • Bindings
 • Strings

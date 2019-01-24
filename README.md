@@ -14,81 +14,81 @@
 • Variables<br />
 • Operators and Branching<br />
 #### Lecture 2 – Core elements of programs:
-• Bindings
-• Strings
-• Input/Output
-• IDEs
-• Control Flow
-• Iteration
-• Guess and Check
+• Bindings<br />
+• Strings<br />
+• Input/Output<br />
+• IDEs<br />
+• Control Flow <br />
+• Iteration<br />
+• Guess and Check<br />
 #### Lecture 3 – Simple Programs:
-• Approximate Solutions
-• Bisection Search
-• Floats and Fractions
-• Newton-Raphson
+• Approximate Solutions<br />
+• Bisection Search<br />
+• Floats and Fractions<br />
+• Newton-Raphson<br />
 #### Lecture 4 – Functions:
-• Decomposition and Abstraction
-• Functions and Scope
-• Keyword Arguments
-• Specifications
-• Iteration vs Recursion
-• Inductive Reasoning
-• Towers of Hanoi
-• Fibonacci
-• Recursion on non-numerics
-• Files
+• Decomposition and Abstraction<br />
+• Functions and Scope<br />
+• Keyword Arguments<br />
+• Specifications<br />
+• Iteration vs Recursion<br />
+• Inductive Reasoning<br />
+• Towers of Hanoi<br />
+• Fibonacci<br />
+• Recursion on non-numerics<br />
+• Files<br />
 #### Lecture 5 – Tuples and Lists:
-• Tuples
-• Lists
-• List Operations
-• Mutation, Aliasing, Cloning
+• Tuples<br />
+• Lists<br />
+• List Operations<br />
+• Mutation, Aliasing, Cloning<br />
 #### Lecture 6 – Dictionaries:
-• Functions as Objects
-• Dictionaries
-• Example with a Dictionary
-• Fibonacci and Dictionaries
-• Global Variables
+• Functions as Objects<br />
+• Dictionaries<br />
+• Example with a Dictionary<br />
+• Fibonacci and Dictionaries<br />
+• Global Variables<br />
 #### Lecture 7 – Debugging:
-• Programming Challenges
-• Classes of Tests
-• Bugs
-• Debugging
-• Debugging Examples
+• Programming Challenges<br />
+• Classes of Tests<br />
+• Bugs<br />
+• Debugging<br />
+• Debugging Examples<br />
 #### Lecture 8 – Assertions and Exceptions
-• Assertions
-• Exceptions
-• Exception Examples
+• Assertions<br />
+• Exceptions<br />
+• Exception Examples<br />
 #### Lecture 9 – Classes and Inheritance:
-• Object Oriented Programming
-• Class Instances
-• Methods
-• Classes Examples
-• Why OOP
-• Hierarchies
-• Your Own Types
+• Object Oriented Programming<br />
+• Class Instances<br />
+• Methods<br />
+• Classes Examples<br />
+• Why OOP<br />
+• Hierarchies<br />
+• Your Own Types<br />
 #### Lecture 10 – An Extended Example:
-• Building a Class
-• Viualizing the Hierarchy
-• Adding another Class
-• Using Inherited Methods
-• Gradebook Example
-• Generators
+• Building a Class<br />
+• Viualizing the Hierarchy<br />
+• Adding another Class<br />
+• Using Inherited Methods<br />
+• Gradebook Example<br />
+• Generators<br />
 #### Lecture 11 – Computational Complexity:
-• Program Efficiency
-• Big Oh Notation
-• Complexity Classes
-• Analyzing Complexity
+• Program Efficiency<br />
+• Big Oh Notation<br />
+• Complexity Classes<br />
+• Analyzing Complexity<br />
 #### Lecture 12 – Searching and Sorting Algorithms:
-• Indirection
-• Linear Search
-• Bisection Search
-• Bogo and Bubble Sort
-• Selection Sort
-• Merge Sort
+• Indirection<br />
+• Linear Search<br />
+• Bisection Search<br />
+• Bogo and Bubble Sort<br />
+• Selection Sort<br />
+• Merge Sort<br />
 #### Lecture 13 – Visualization of Data:
-• Visualizing Results
-• Overlapping Displays
-• Adding More Documentation
-• Changing Data Display
-• An Example
+• Visualizing Results<br />
+• Overlapping Displays<br />
+• Adding More Documentation<br />
+• Changing Data Display<br />
+• An Example<br />
 #### Lecture 14 – Summary

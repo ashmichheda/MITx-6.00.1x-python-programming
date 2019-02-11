@@ -6,7 +6,7 @@ Created on Fri Jan 18 22:53:43 2019
 """
 an_letters = "aefhilmnorsxAEFHILLMNORSX"
 
-word = input("I will cheer for you! Enter a word: ")
+word = input("I will cheer for you!! Please enter a word!: ")
 times = int(input("Enthusiasm level (1 - 10): "))
 i = 0;
 

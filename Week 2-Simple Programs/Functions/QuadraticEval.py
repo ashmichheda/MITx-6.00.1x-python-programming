@@ -9,7 +9,7 @@ Write to Python function evalQuadratic(a, b, c, x),,
 that returns the value of the quadratic 
 [mathjaxinline] to \ cdot x ^ 2 + b \ cdot x + c [/ mathjaxinline].
 This function takes in four numbers and returns to single number.
-
+Calculates a*x^2 + b*x + c
 """
 def evalQuadratic(a, b, c, x):
     '''

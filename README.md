@@ -2,7 +2,7 @@
 
 ### Introduction to Computer Science and Programming Using Python
 
-#### Course link: [MITX-6.00.1x-python-programming](https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python-0)
+#### Course link: [MITx-6.00.1x-python-programming](https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python-0)
 
 
 ### Topics covered in this course:

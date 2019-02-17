@@ -75,3 +75,8 @@ def f(x, y):
 
 #A6: NoneType
 
+#The last function, unlike the other ones, does not have a return statement. 
+# It only does an operation (the operation is x+y-2). Since it does not explicitly return anything, 
+#Python by default returns the value None whose type is NoneType
+
+

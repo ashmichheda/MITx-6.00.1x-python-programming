@@ -12,7 +12,7 @@
 #### Lecture 4 – Functions
 #### Lecture 5 – Tuples and Lists
 #### Lecture 6 – Dictionaries
-#### Lecture 7 – Debuggin
+#### Lecture 7 – Debugging
 #### Lecture 8 – Assertions and Exceptions
 #### Lecture 9 – Classes and Inheritance
 #### Lecture 10 – An Extended Example

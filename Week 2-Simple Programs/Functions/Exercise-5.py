@@ -11,8 +11,7 @@ def foo(x, y = 5):
    return bar(y * 2)
           
 foo(3)
-
-# Answer: 11
+# Answer1: 11
 
 # Question 2
 def foo(x, y = 5):
@@ -21,7 +20,7 @@ def foo(x, y = 5):
    return bar(y * 2)
           
 foo(3, 0)
-# Answer: 1
+# Answer2: 1
 
 # Question 3
 def foo (x):
@@ -30,7 +29,7 @@ def foo (x):
    return bar(3, x)
 
 foo(2)
-# Answer: 5
+# Answer3: 5
 
 
 # Question 4
@@ -40,5 +39,4 @@ def foo (x):
    return bar(3)
 
 foo(5)
-# Answer: 3
-
+# Answer4: 3

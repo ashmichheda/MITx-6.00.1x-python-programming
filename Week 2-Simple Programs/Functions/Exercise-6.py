@@ -24,7 +24,7 @@ print(str1.islower())
 # Answer returns boolean True
 
 str2 = str2.capitalize()
-print(str2)
+#print(str2)
 # Answer returns String Number one - the larch
 
 print(str2.swapcase())
@@ -55,14 +55,5 @@ print(str1)
 
 print(str2.replace('one', 'seven'))
 # Answer returns Number seven - the larch
-
-
-
-
-
-
-
-
-
 
 

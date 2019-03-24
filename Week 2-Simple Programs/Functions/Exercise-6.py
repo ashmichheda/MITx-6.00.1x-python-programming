@@ -9,51 +9,50 @@ str1 = "exterminate!"
 str2 = 'number one - the larch'
 
 print(str1.upper)
-# Answer: returns function
+# Answer1: returns function
 
 print(str1.upper())
-# Answer: returns String EXTERMINATE!
+# Answer2: returns String EXTERMINATE!
 
 print(str1)
-# Answer: returns String exterminate!
+# Answer3: returns String exterminate!
 
 print(str1.isupper())
-# Answer returns boolean False
+# Answer4: returns boolean False
 
 print(str1.islower())
-# Answer returns boolean True
+# Answer5: returns boolean True
 
 str2 = str2.capitalize()
 #print(str2)
-# Answer returns String Number one - the larch
+# Answer6: returns String Number one - the larch
 
 print(str2.swapcase())
-# returns String nUMBER ONE - THE LARCH
+# Answer7: String nUMBER ONE - THE LARCH
 
 print(str1.index('e'))
-# Answer returns 0
+# Answer8: returns 0
 
-print(str2)
+#print(str2)
 print(str2.index('n'))
-# Answer returns 8
+# Answer9: returns 8
 
 print(str2.find('n'))
-# Answer returns 8
+# Answer10: returns 8
 
 #print(str2.index('!'))
-# Answer returns error
+# Answer11: returns error
 
 print(str2.find('!'))
-# Answer returns -1
+# Answer12: returns -1
 
 print(str1.count('e'))
-# Answer returns 3
+# Answer13: returns 3
 
 str1 = str1.replace('e', '*') 
 print(str1)
-# Answer returns *xt*rminat*!
+# Answer14: returns *xt*rminat*!
 
 print(str2.replace('one', 'seven'))
-# Answer returns Number seven - the larch
-
+# Answer15: returns Number seven - the larch
 

@@ -4,7 +4,6 @@ Created on Sat Mar 23 18:52:01 2019
 
 @author: Ashmi
 """
-
 def g(x):
     def h():
         x = "abc"
@@ -15,3 +14,4 @@ def g(x):
 
 x = 3
 z = g(x)
+print(z)

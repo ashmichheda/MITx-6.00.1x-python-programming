@@ -13,4 +13,4 @@ def fibonacci(x):
         return fibonacci(x-1) + fibonacci(x-2)
 
 result  = fibonacci(5)
-print("Fib total is: "+str(result))
+print("Fibonacci total: "+str(result))

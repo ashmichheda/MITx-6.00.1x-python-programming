@@ -12,5 +12,5 @@ def fibonacci(x):
     else:
         return fibonacci(x-1) + fibonacci(x-2)
 
-result  = fibonacci(5)
+result  = fibonacci(7)
 print("Fibonacci total: "+str(result))

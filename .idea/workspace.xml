@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b56d1920-af54-4020-b872-9445d05a984d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/MITx-6.00.1x-python-programming.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 3 - Structured Types/getData.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 3 - Structured Types/oddTuples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 3 - Structured Types/mutationLists.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,7 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Week 3 - Structured Types/getData.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -27,11 +22,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Week 3 - Structured Types/oddTuples.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="168">
-              <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+              <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Week 3 - Structured Types/mutationLists.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="61">
+              <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -39,7 +43,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Week 2-Simple Programs/cubeRootApprox.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-9">
+            <state relative-caret-position="238">
               <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
@@ -48,7 +52,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Week 2-Simple Programs/Functions/fib.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-9">
+            <state relative-caret-position="210">
               <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
             </state>
           </provider>
@@ -72,6 +76,7 @@
         <option value="$PROJECT_DIR$/Week 3 - Structured Types/Test.py" />
         <option value="$PROJECT_DIR$/Week 3 - Structured Types/getData.py" />
         <option value="$PROJECT_DIR$/Week 3 - Structured Types/oddTuples.py" />
+        <option value="$PROJECT_DIR$/Week 3 - Structured Types/mutationLists.py" />
       </list>
     </option>
   </component>
@@ -81,11 +86,15 @@
     <option name="width" value="1890" />
     <option name="height" value="960" />
   </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -96,24 +105,12 @@
             <path>
               <item name="MITx-6.00.1x-python-programming" type="b2602c69:ProjectViewProjectNode" />
               <item name="MITx-6.00.1x-python-programming" type="462c0819:PsiDirectoryNode" />
-              <item name="Week 2-Simple Programs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MITx-6.00.1x-python-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MITx-6.00.1x-python-programming" type="462c0819:PsiDirectoryNode" />
-              <item name="Week 2-Simple Programs" type="462c0819:PsiDirectoryNode" />
-              <item name="Functions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MITx-6.00.1x-python-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MITx-6.00.1x-python-programming" type="462c0819:PsiDirectoryNode" />
               <item name="Week 3 - Structured Types" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -134,7 +131,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.oddTuples">
+  <component name="RunManager" selected="Python.mutationLists">
     <configuration name="Test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MITx-6.00.1x-python-programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -219,6 +216,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="mutationLists" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MITx-6.00.1x-python-programming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 3 - Structured Types" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 3 - Structured Types/mutationLists.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="oddTuples" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MITx-6.00.1x-python-programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -246,9 +264,11 @@
       <item itemvalue="Python.fib" />
       <item itemvalue="Python.Test" />
       <item itemvalue="Python.oddTuples" />
+      <item itemvalue="Python.mutationLists" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.mutationLists" />
         <item itemvalue="Python.oddTuples" />
         <item itemvalue="Python.Test" />
         <item itemvalue="Python.fib" />
@@ -271,49 +291,28 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24261771" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" weight="0.3283859" />
-      <window_info anchor="bottom" id="Python Console" weight="0.46011132" />
-      <window_info anchor="bottom" id="Terminal" weight="0.3283859" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26345083" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26345083" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39888683" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3283859" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3283859" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="10" visible="true" weight="0.6586271" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Week 2-Simple Programs/cubeRootApprox.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-9">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 2-Simple Programs/Functions/fib.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-9">
-          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 3 - Structured Types/Test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 3 - Structured Types/Test.py" />
     <entry file="file://$PROJECT_DIR$/Week 3 - Structured Types/getData.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
@@ -321,10 +320,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Week 2-Simple Programs/cubeRootApprox.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 2-Simple Programs/Functions/fib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Week 3 - Structured Types/oddTuples.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
-          <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 3 - Structured Types/mutationLists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="61">
+          <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
         </state>
       </provider>
     </entry>
